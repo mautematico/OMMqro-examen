@@ -1,4 +1,4 @@
-OMMqro-examen
+Examen OMM Querétaro
 =============
 
-Primer examen en línea de la OMMqro
+Plugin de Wordpress que genera y evalúa exámenes con preguntas seleccionadas al azar de una base de datos dada.
